@@ -1,6 +1,6 @@
 # GROUP-MAY-B
 Rahul_kumar_047
-<h1 align="center">Hi 👋, I'm Rahul kr</h1>
+<h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">Git and GitHub test</h3>
 
 - 📫 How to reach me **raahulkr181920@gmail.com**
